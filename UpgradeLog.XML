@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Generating Backgrounds">
+</Property><Property Name="Solution File" Value="C:\Users\Lee\Tech\IN613 - C++\Week9\Pratical 9.2 TSpriteList on Scrolling Background\Generating Backgrounds.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Lee\Tech\IN613 - C++\Week9\Pratical 9.2 TSpriteList on Scrolling Background\Generating Backgrounds.suo">
+</Property><Property Name="Date" Value="Thursday, October 07, 2010">
+</Property><Property Name="Time" Value="19:11 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Generating Backgrounds.sln" Description="File successfully backed up as C:\Users\Lee\Tech\IN613 - C++\Week9\Pratical 9.2 TSpriteList on Scrolling Background\Generating Backgrounds.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Generating Backgrounds.suo" Description="File successfully backed up as C:\Users\Lee\Tech\IN613 - C++\Week9\Pratical 9.2 TSpriteList on Scrolling Background\Generating Backgrounds.suo.old">
+</Event><Event ErrorLevel="0" Project="Generating Backgrounds" Source="Generating Backgrounds\Generating Backgrounds.vcproj" Description="Converting project file 'C:\Users\Lee\Tech\IN613 - C++\Week9\Pratical 9.2 TSpriteList on Scrolling Background\Generating Backgrounds\Generating Backgrounds.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Generating Backgrounds" Source="Generating Backgrounds\Generating Backgrounds.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Generating Backgrounds" Source="Generating Backgrounds\Generating Backgrounds.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Generating Backgrounds" Source="Generating Backgrounds\Generating Backgrounds.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Generating Backgrounds" Source="Generating Backgrounds\Generating Backgrounds.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Generating Backgrounds" Source="Generating Backgrounds\Generating Backgrounds.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Generating Backgrounds" Source="Generating Backgrounds\Generating Backgrounds.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Generating Backgrounds" Source="Generating Backgrounds\Generating Backgrounds.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Generating Backgrounds" Source="Generating Backgrounds\Generating Backgrounds.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Generating Backgrounds" Source="Generating Backgrounds\Generating Backgrounds.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Generating Backgrounds" Source="Generating Backgrounds\Generating Backgrounds.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Generating Backgrounds" Source="Generating Backgrounds\Generating Backgrounds.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="Generating Backgrounds" Source="Generating Backgrounds\Generating Backgrounds.vcproj" Description="Done converting to new project file 'C:\Users\Lee\Tech\IN613 - C++\Week9\Pratical 9.2 TSpriteList on Scrolling Background\Generating Backgrounds\Generating Backgrounds.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Generating Backgrounds" Source="Generating Backgrounds\Generating Backgrounds.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Generating Backgrounds.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Generating Backgrounds.sln" Description="Converted">
+</Event></UpgradeLog>
